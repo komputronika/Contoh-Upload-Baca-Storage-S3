@@ -11,10 +11,10 @@ Rekomendasi layanan Object Storage berbasis S3 di Indonesia
 BiznetGio, klik: https://www.biznetgio.com/
 
 ### VOUCHER DISKON:
-**AFLITECLOUD** Diskon 15 % NEO Lite
-**AFNWPCLOUD** Diskon 20% NEO WordPress
-**AFNVCLOUD** DIskon 10% NEO Virtual Compute
-**AFNWHCLOUD** Diskon 20% NEO Web Hosting
+**AFLITECLOUD** Diskon 15 % NEO Lite\
+**AFNWPCLOUD** Diskon 20% NEO WordPress\
+**AFNVCLOUD** DIskon 10% NEO Virtual Compute\
+**AFNWHCLOUD** Diskon 20% NEO Web Hosting\
 **AFNDHCLOUD** DIskon 10% NEO Dedicated Hosting
 
 Cara menggunakan:
