@@ -1,0 +1,12 @@
+{
+    "name": "piepin/s3test",
+    "authors": [
+        {
+            "name": "Piepin",
+            "email": "piepin@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.306"
+    }
+}
